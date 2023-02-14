@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/newroutedemo/static/css/main.073c9b0a.css",
-    "main.js": "/newroutedemo/static/js/main.11ba8bb0.js",
+    "main.js": "/newroutedemo/static/js/main.27e9b1dd.js",
     "static/js/787.c97f0bf9.chunk.js": "/newroutedemo/static/js/787.c97f0bf9.chunk.js",
     "static/media/logo.svg": "/newroutedemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/newroutedemo/index.html",
     "main.073c9b0a.css.map": "/newroutedemo/static/css/main.073c9b0a.css.map",
-    "main.11ba8bb0.js.map": "/newroutedemo/static/js/main.11ba8bb0.js.map",
+    "main.27e9b1dd.js.map": "/newroutedemo/static/js/main.27e9b1dd.js.map",
     "787.c97f0bf9.chunk.js.map": "/newroutedemo/static/js/787.c97f0bf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.11ba8bb0.js"
+    "static/js/main.27e9b1dd.js"
   ]
 }
