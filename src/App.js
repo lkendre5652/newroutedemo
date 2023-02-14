@@ -8,12 +8,12 @@ function App() {
   return (<>
   <NavLink to="newroutedemo/home" >Home</NavLink>
   <NavLink to="newroutedemo/contact" >Contact</NavLink>
-  <HashRouter>
-  <Routes>
+  
+  <Routes >
     <Route exact path="newroutedemo/home" element={<Home />} />
     <Route  path="newroutedemo/contact" element={<Contact />} />
   </Routes>
-  </HashRouter>
+  
   
   </>
   );
